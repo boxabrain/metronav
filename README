@@ -7,7 +7,7 @@ Test for a "metro-style" content navigation.
 Mobile support (swipe/drag).
 
 
-Require:
+Using:
 
 * jQuery
 * Hammer.js
