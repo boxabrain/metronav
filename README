@@ -1,0 +1,14 @@
+Metro-Style Content Navigation
+------------------------------
+
+Info:
+
+Test for a "metro-style" content navigation.
+Mobile support (swipe/drag).
+
+
+Require:
+
+* jQuery
+* Hammer.js
+
