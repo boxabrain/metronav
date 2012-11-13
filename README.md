@@ -1,13 +1,13 @@
 # Metro-Style Content Navigation
 
-## Info:
+## Info
 
 Test for a "metro-style" content navigation.
 Next/Prev buttons to navigate or Swipe/Drag on mobile devices.
 
-## Demo:
+## Demo
 
-Quick demo [here](http://boxabrain.github.com/metronav/)
+Simple demo [here](http://boxabrain.github.com/metronav/)
 
 
 ## Using:
